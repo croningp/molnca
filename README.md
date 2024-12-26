@@ -31,7 +31,6 @@
   </br></br>
 </div>
 
-
 <!-- TOC -->
 ## Table of Contents
 <details>
@@ -63,7 +62,6 @@ This project adapts [Neural Cellular Automata](https://arxiv.org/abs/2103.08737)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Project Organization
 
 ```
@@ -89,7 +87,7 @@ git clone https://github.com/croningp/molnca.git
 cd molnca
 ```
 
-2. Install [xtb](https://xtb-docs.readthedocs.io/en/latest/setup.html) and set the XTB_PATH variable in the .env file to PATH/TO/XTB/bin/xtb
+2. Install [xtb](https://xtb-docs.readthedocs.io/en/latest/setup.html) and set the XTB_PATH variable in the .env file to PATH_TO_XTB/bin/xtb
 ```.env
 e.g.
 XTB_PATH="/home/sebastian/pkgs/xtb-6.6.0/bin/xtb/"
