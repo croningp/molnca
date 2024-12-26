@@ -69,7 +69,7 @@ This project adapts [Neural Cellular Automata](https://arxiv.org/abs/2103.08737)
 ```
 │
 ├── ncamol - Contains of code required to run the experiments
-├── notebooks - Notebooks for each of the experiments presetend in the paper
+├── notebooks - Notebook for each experiment
 ├── configs - Configs for experiments
 ├── models - checkpoints and logs for the experiments
 └── external_packpages - Contains a copy of Orbkit (https://github.com/orbkit/orbkit) with minor changes in the imports
@@ -111,7 +111,7 @@ uv pip sync requirements.txt
 <!-- Experiments -->
 ## Experiments
 
-Each in the manuscript presented experiments is captured in a jupyter notebook with all instructions to recreate each of them.
+Each experiment can be recreated in a jupyter notebook:
 
 ```
 │
@@ -175,7 +175,7 @@ README was adapted from this [template](https://github.com/othneildrew/Best-READ
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[conference-shield]: https://img.shields.io/badge/NIPS_23-AI4Science-blue?style=for-the-badge
+[conference-shield]: https://img.shields.io/badge/NeurIPS_23-AI4Science-blue?style=for-the-badge
 [conference-url]: https://openreview.net/pdf?id=Il8mRcEiRq
 [contributors-shield]: https://img.shields.io/github/contributors/croningp/molnca.svg?style=for-the-badge
 [contributors-url]: https://github.com/croningp/molca/graphs/contributors
