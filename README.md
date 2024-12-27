@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/croningp/molnca">
-    <img src="assets/logo.png" alt="Logo">
+    <img src="assets/concept.png" alt="Logo">
   </a>
 
   <h3 align="center">Molecular NCA</h3>
