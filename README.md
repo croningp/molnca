@@ -68,7 +68,6 @@ This project adapts [Neural Cellular Automata](https://arxiv.org/abs/2103.08737)
 │
 ├── ncamol - Contains of code required to run the experiments
 ├── notebooks - Notebook for each experiment
-├── configs - Configs for experiments
 ├── models - checkpoints and logs for the experiments
 └── external_packpages - Contains a copy of Orbkit (https://github.com/orbkit/orbkit) with minor changes in the imports
 
