@@ -177,7 +177,7 @@ README was adapted from this [template](https://github.com/othneildrew/Best-READ
 [contributors-shield]: https://img.shields.io/github/contributors/croningp/molnca.svg?style=for-the-badge
 [contributors-url]: https://github.com/croningp/molca/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/croningp/molnca.svg?style=for-the-badge
-[stars-url]: https://github.com/croningp/molca/stargazers
+[stars-url]: https://github.com/croningp/molnca/stargazers
 [python-shield]: https://img.shields.io/badge/python-3.11-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [license-shield]: https://img.shields.io/badge/license-MIT-blue?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
